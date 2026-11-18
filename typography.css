@@ -1,0 +1,304 @@
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/manrope-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/manrope-500.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/manrope-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/manrope-700.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marcellus';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/marcellus-400.ttf) format('truetype');
+}
+
+body, button, input, select, textarea,
+.navbar-nav > li > a, .sub-menu a,
+.chef-sub-title li, .featured-book-content .time,
+.contact-info p, .ui-widget, .ui-widget-content {
+  font-family: 'Manrope', sans-serif;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6, .chef-title li {
+  font-family: 'Marcellus', serif;
+  font-weight: 400;
+}
+.eyebrow, .sub-title, .subtitle, .tagline-content > p {
+  font-family: 'Manrope', sans-serif;
+}
+.featured-book-content > h4, .chef-title li.price {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Navigation typography */
+#primary-menu .navbar-nav > li > a,
+#primary-menu .sub-menu a {
+  font-family: 'Marcellus', serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Equal menu columns reserve the center for the logo. */
+@media (min-width: 769px) {
+  #nav-menu > .container {
+    width: 100%;
+    max-width: 1480px;
+    padding-left: clamp(20px, 4vw, 64px);
+    padding-right: clamp(20px, 4vw, 64px);
+  }
+  #primary-menu.navbar-collapse {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 150px minmax(0, 1fr);
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  #primary-menu::before, #primary-menu::after {
+    display: none;
+  }
+  #primary-menu #leftmenu, #primary-menu #rightmenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: clamp(8px, 1.2vw, 20px);
+    float: none;
+    width: 100%;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+  }
+  #primary-menu #leftmenu { grid-column: 1; }
+  #primary-menu #rightmenu { grid-column: 3; }
+  #primary-menu .navbar-nav > li {
+    display: block;
+    float: none;
+    flex: 0 0 auto;
+  }
+  #primary-menu .navbar-nav > li > a {
+    font-size: clamp(10px, 1.15vw, 18px);
+    letter-spacing: 0.045em;
+    white-space: nowrap;
+    padding: 48px 0;
+  }
+  .on #primary-menu .navbar-nav > li > a { padding: 25px 0; }
+  #nav-menu #logo {
+    left: 50%;
+    right: auto;
+    margin: 0;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 768px) {
+  #nav-menu #logo {
+    left: auto;
+    right: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Supporting line beneath the Home and Restaurant hero titles. */
+.slider .tagline-content p.hero-description,
+.parallax .parallax-content p.hero-description {
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(14px, 1.35vw, 18px);
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: #fff;
+  max-width: 640px;
+  margin: 0 auto 24px;
+  padding: 0 16px;
+}
+
+.menu-photo-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 48px 28px; padding: 0 15px 50px; }
+.menu-photo-card { min-width: 0; }
+.menu-photo-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; margin-bottom: 20px; }
+.menu-photo-card .chef-title ul { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 0; margin: 0 0 10px; }
+.menu-photo-card .chef-title li { float: none; margin: 0; font-size: 20px; line-height: 1.35; }
+.menu-photo-card .chef-title li:first-child { flex: 1; }
+.menu-photo-card .chef-title li.price { flex: none; font-family: 'Manrope', sans-serif; font-size: 15px; }
+.menu-photo-card .chef-title li.weight { flex: none; font-family: 'Manrope', sans-serif; font-size: 12px; }
+.menu-photo-card .chef-title li.weight:empty { display: none; }
+.menu-photo-card .chef-title p { margin: 0; line-height: 1.65; }
+@media (max-width: 991px) { .menu-photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+
+.menu-photo-card img { aspect-ratio: 1 / 1; border-radius: 4px; }
+.menu-photo-card .chef-title h3 { font-size: 20px; line-height: 1.35; margin-bottom: 10px; }
+.menu-photo-card .chef-title h4 { font-family: 'Manrope', sans-serif; font-size: 14px; line-height: 1.5; }
+
+.menu-photo-card .chef-title .menu-price {
+  margin: 16px 0 0;
+  color: #0e4870;
+  font-family: 'Marcellus', serif;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+@media (max-width: 600px) {
+  .menu-photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 14px; }
+  .menu-photo-card .chef-title h3 { font-size: 18px; overflow-wrap: anywhere; }
+  .menu-photo-card .chef-title h4,
+  .menu-photo-card .chef-title p { font-size: 13px; overflow-wrap: anywhere; }
+  .menu-photo-card .chef-title .menu-price { font-size: 20px; }
+}
+
+/* Ivory mobile navigation: the serif and blue carry the restaurant identity. */
+@media (max-width: 768px) {
+  #nav-menu #mobile-menu {
+    display: block !important;
+    padding: 18px 26px 28px;
+    background: #faf9f5;
+    border: 0;
+    box-shadow: 0 12px 20px rgba(14, 72, 112, .06);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-6px);
+    transition: opacity 150ms cubic-bezier(.23, 1, .32, 1),
+      transform 150ms cubic-bezier(.23, 1, .32, 1), visibility 0s 150ms;
+  }
+  #nav-menu #mobile-menu.is-open {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0);
+    transition-duration: 200ms, 200ms, 0s;
+    transition-delay: 0s;
+  }
+  #nav-menu #mobile-menu .navbar-nav { margin: 0; }
+  #nav-menu #mobile-menu a { transition: none; }
+  #nav-menu #mobile-menu .navbar-nav > li { position: relative; overflow: visible; }
+  #nav-menu #mobile-menu .navbar-nav > li > a {
+    min-height: 58px;
+    padding: 13px 0 !important;
+    border-bottom: 1px solid rgba(14, 72, 112, .14);
+    background: transparent;
+    color: #0e4870;
+    font: 400 25px/1.28 'Marcellus', serif;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+  #nav-menu #mobile-menu .navbar-nav > li.current-menu-item > a { color: #15737c; }
+  #nav-menu #mobile-menu .menu-item-has-children > a { padding-right: 48px !important; }
+  #nav-menu #mobile-menu .sf-sub-indicator {
+    top: 6px !important;
+    right: -8px !important;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    text-align: center;
+    color: #0e4870;
+    transition: transform 160ms cubic-bezier(.23, 1, .32, 1);
+  }
+  #nav-menu #mobile-menu .sf-sub-indicator:before,
+  #nav-menu #mobile-menu .sf-sub-indicator:after {
+    content: '';
+    color: inherit;
+    position: absolute;
+    top: 21px;
+    left: 17px;
+    width: 10px;
+    height: 1px;
+    background: currentColor;
+    margin: 0;
+  }
+  #nav-menu #mobile-menu .sf-sub-indicator:before {
+    transform: rotate(90deg);
+    transition: transform 180ms cubic-bezier(.23, 1, .32, 1);
+  }
+  #nav-menu #mobile-menu .sf-sub-indicator[aria-expanded=true]:before {
+    transform: rotate(90deg) scaleX(0);
+    transition-duration: 240ms;
+  }
+  #nav-menu #mobile-menu .sub-menu {
+    display: block !important;
+    position: static;
+    float: none;
+    width: auto;
+    margin: 0 0 0 12px;
+    padding: 0 0 0 14px;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    overflow: hidden;
+    visibility: hidden;
+    transition: height 180ms cubic-bezier(.23, 1, .32, 1), visibility 0s 180ms;
+  }
+  #nav-menu #mobile-menu .open > .sub-menu {
+    visibility: visible;
+    transition-duration: 240ms, 0s;
+    transition-delay: 0s;
+  }
+  #nav-menu #mobile-menu .sub-menu > li:first-child > a { padding-top: 18px; }
+  #nav-menu #mobile-menu .sub-menu > li:last-child > a { padding-bottom: 18px; }
+  #nav-menu #mobile-menu .submenu-instant > .sub-menu,
+  #nav-menu #mobile-menu .submenu-instant > .sf-sub-indicator:before { transition: none; }
+  #nav-menu #mobile-menu .sub-menu a {
+    padding: 10px 0;
+    min-height: 44px;
+    font: 400 13px/1.65 'Manrope', sans-serif;
+    text-indent: 0;
+    color: #0e4870;
+    border: 0;
+    background: transparent;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+  #nav-menu #mobile-menu a:focus-visible,
+  #nav-menu #mobile-menu button:focus-visible,
+  #mobile-menu-trigger:focus-visible { outline: 2px solid #15737c !important; outline-offset: 3px; }
+  #mobile-menu-trigger .icon-bar {
+    background: #0e4870;
+    transition: transform 150ms cubic-bezier(.23, 1, .32, 1), opacity 150ms cubic-bezier(.23, 1, .32, 1);
+  }
+  #mobile-menu-trigger[aria-expanded=true] .icon-bar { transition-duration: 200ms; }
+  #mobile-menu-trigger[aria-expanded=true] .icon-bar:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+  #mobile-menu-trigger[aria-expanded=true] .icon-bar:nth-child(2) { opacity: 0; }
+  #mobile-menu-trigger[aria-expanded=true] .icon-bar:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+  #nav-menu #mobile-menu.menu-instant,
+  #nav-menu:has(.menu-instant) #mobile-menu-trigger .icon-bar { transition: none; }
+  #nav-menu #mobile-menu .sf-sub-indicator:active { transform: scale(.97); }
+  #nav-menu #mobile-menu a:focus-visible { transition: none; }
+  #nav-menu #mobile-menu .sf-sub-indicator:focus-visible { transition: none; transform: none; }
+}
+@media (max-width: 768px) and (hover: hover) and (pointer: fine) {
+  #nav-menu #mobile-menu a { transition: color 150ms ease; }
+  #nav-menu #mobile-menu a:hover { color: #15737c; background: transparent; }
+  #nav-menu #mobile-menu a:focus-visible { transition: none; }
+}
+@media (max-width: 768px) and (prefers-reduced-motion: reduce) {
+  #nav-menu #mobile-menu, #mobile-menu-trigger .icon-bar,
+  #nav-menu #mobile-menu .sf-sub-indicator,
+  #nav-menu #mobile-menu .sf-sub-indicator:before,
+  #nav-menu #mobile-menu .sub-menu,
+  #nav-menu #mobile-menu a { transition: none; }
+  #nav-menu #mobile-menu .sf-sub-indicator:active { transform: none; }
+}

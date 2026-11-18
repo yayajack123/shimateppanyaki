@@ -1,0 +1,3582 @@
+[
+  {
+    "width": 390,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 216,
+        "cls": 0.0009741046712802769
+      },
+      "requests": 70,
+      "bytes": 18008758,
+      "loadedMenu": 6,
+      "cards": [
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 360,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 3640,
+        "cls": 0.0009741046712802769
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "dpr": 2,
+    "initial": {
+      "metrics": {
+        "lcp": 132,
+        "cls": 0.0009741046712802769
+      },
+      "requests": 70,
+      "bytes": 18008758,
+      "loadedMenu": 6,
+      "cards": [
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 360,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 2988,
+        "cls": 0.0009741046712802769
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 600,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 100,
+        "cls": 0.0009261263696655134
+      },
+      "requests": 68,
+      "bytes": 12677049,
+      "loadedMenu": 4,
+      "cards": [
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 570,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 3500,
+        "cls": 0.0009261263696655134
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 601,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 124,
+        "cls": 0.0009239232910547013
+      },
+      "requests": 76,
+      "bytes": 25659413,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 271.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 124,
+        "cls": 0.0009239232910547013
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 768,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 104,
+        "cls": 0.0011796785453611592
+      },
+      "requests": 76,
+      "bytes": 25659413,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 283.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 104,
+        "cls": 0.0011796785453611592
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 991,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 128,
+        "cls": 0.0012156157435079184
+      },
+      "requests": 76,
+      "bytes": 25659413,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 283.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 128,
+        "cls": 0.0012156157435079184
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 992,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 100,
+        "cls": 0.0013710801397242933
+      },
+      "requests": 82,
+      "bytes": 33307930,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png"
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 101,
+      "bytes": 62517399,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 240.78125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 100,
+        "cls": 0.0013710801397242933
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1200,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 108,
+        "cls": 0.0012251918658088235
+      },
+      "requests": 81,
+      "bytes": 33211330,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 100,
+      "bytes": 62420799,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 108,
+        "cls": 0.0012251918658088235
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0009822726424916033
+      },
+      "requests": 81,
+      "bytes": 33211330,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 100,
+      "bytes": 62420799,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0009822726424916033
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "dpr": 2,
+    "initial": {
+      "metrics": {
+        "lcp": 132,
+        "cls": 0.0009822726424916033
+      },
+      "requests": 81,
+      "bytes": 33211330,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 60131369,
+      "requests": 100,
+      "bytes": 62420799,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetables.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-asparagus.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tofu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-calamari.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tuna.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fish.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-salmon.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-scallops.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-king-prawn.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-giant-prawn.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-lobster.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-chicken.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-wagyu-sirloin.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-black-angus-tenderloin.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-miyazaki-wagyu.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-tomahawk-wagyu.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-tomahawk.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-dry-aged-t-bone.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-ribeye-batch3.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-fried-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-steamed-rice.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-potato-wedges.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-includes.png",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-omoshiroi.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-gyokai.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-oishi.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kobe.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-kairiku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-zeitaku.png",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-suku-suku.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-mori-mori.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-1.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-vegetarian-set-2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-set-menu-pow-v2.png",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/generated-niku-dake.png",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 132,
+        "cls": 0.0009822726424916033
+      },
+      "overflow": false
+    },
+    "errors": []
+  }
+]

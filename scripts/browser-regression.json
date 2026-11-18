@@ -1,0 +1,50 @@
+[
+  {
+    "name": "index.html",
+    "width": 390,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "name": "restaurant.html",
+    "width": 390,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "name": "teppanyaki.html",
+    "width": 390,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "name": "index.html",
+    "width": 1440,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "name": "restaurant.html",
+    "width": 1440,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "name": "teppanyaki.html",
+    "width": 1440,
+    "popup": "pass",
+    "navigation": "pass",
+    "overflow": false,
+    "errors": []
+  }
+]

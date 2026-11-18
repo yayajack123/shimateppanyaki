@@ -1,0 +1,17 @@
+Foto Unsplash untuk contoh desain, bukan foto hidangan Shima.
+vegetables: https://unsplash.com/photos/asparagus-lemon-and-other-vegetables-on-a-plate-HJefoYbzBBM
+asparagus: https://unsplash.com/photos/a-white-plate-topped-with-asparagus-next-to-a-glass-of-wine-OEFYFncTHIE
+tofu: https://unsplash.com/photos/fried-tofu-pieces-with-spices-and-dipping-sauce-RZ1VTTtRgQQ
+calamari: https://unsplash.com/photos/grilled-calamari-served-with-herbs-and-oil-by-the-sea-zgotbaQZvFo
+tuna: https://unsplash.com/photos/sliced-meat-on-white-and-blue-ceramic-plate-Pg6s_Ak7434
+fish: https://unsplash.com/photos/fish-being-grilled-3_M4NxDo89A
+salmon: https://unsplash.com/photos/grilled-fish-cooked-vegetables-and-fork-on-plate-bpPTlXWTOvg
+seafood: https://unsplash.com/photos/a-plate-of-lobster-shrimp-scallops-and-green-beans-qft0cj-wdF0
+prawn: https://unsplash.com/photos/a-grill-that-has-some-shrimp-on-it-T59T20VLFes
+chicken: https://unsplash.com/photos/grilled-chicken-and-vegetables-on-a-plate-O0KH4FOziVA
+beef: https://unsplash.com/photos/a-plate-of-food-nid9M5qSuKs
+steak: https://unsplash.com/photos/a-white-plate-topped-with-steak-and-vegetables-4PpnVau0nBw
+fried-rice: https://unsplash.com/photos/fried-rice-on-black-pan-CvLZ6hbIemI
+rice: https://unsplash.com/photos/white-rice-on-white-ceramic-bowl-Aa6EQXqXWns
+potato: https://unsplash.com/photos/bowl-of-golden-potato-wedges-with-garnish-J-vSiFxdXVQ
+set: https://unsplash.com/photos/a-japanese-multi-course-meal-with-various-small-dishes-xSHQF1rKaVE

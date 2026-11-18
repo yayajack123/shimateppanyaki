@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "arial",
+        "files": [
+          "local-fixes.css"
+        ],
+        "createdAt": "2026-11-18T06:56:53.463Z",
+        "reason": "Agent: Arial renders only fallback slider arrow glyphs in .flex-direction-nav a:before; site typography remains Marcellus and Manrope."
+      },
+      {
+        "rule": "layout-transition",
+        "value": "*",
+        "files": [
+          "typography.css"
+        ],
+        "createdAt": "2026-11-18T07:23:04.679Z",
+        "reason": "Agent: measured-height mobile submenu accordion intentionally moves following navigation rows; permitted accordion exception in improve-animations/AUDIT.md section 5, documented in DESIGN.md, sampled across 320/390/768px including interruption and reduced motion."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1219 @@
+{
+  "photos": [
+    {
+      "source": "assets/generated-asparagus.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2461070,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 16792,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 55720,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-asparagus-249890e006f255f9-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 104766,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp",
+      "saving_percent_default": 97.74
+    },
+    {
+      "source": "assets/generated-black-angus-tenderloin.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1284143,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17560,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 51944,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-black-angus-tenderloin-7c50258a6f5b3842-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 88270,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp",
+      "saving_percent_default": 95.95
+    },
+    {
+      "source": "assets/generated-calamari.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2443840,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 19222,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-calamari-cb841cc960868bad-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 61918,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-calamari-2c35f2ee3e84eff8-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 114736,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-calamari-cb841cc960868bad-800.webp",
+      "saving_percent_default": 97.47
+    },
+    {
+      "source": "assets/generated-chicken.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1270681,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 16610,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 46938,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-chicken-b7632468f89e86ae-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 79516,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp",
+      "saving_percent_default": 96.31
+    },
+    {
+      "source": "assets/generated-dry-aged-t-bone.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1338702,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18852,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-dry-aged-t-bone-50258a44d9e42853-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 56248,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-dry-aged-t-bone-46a23990a34835e2-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 99628,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-dry-aged-t-bone-50258a44d9e42853-800.webp",
+      "saving_percent_default": 95.8
+    },
+    {
+      "source": "assets/generated-dry-aged-tomahawk.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1321606,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18692,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-dry-aged-tomahawk-f76c7a0be110f194-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 58240,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-dry-aged-tomahawk-1325745b263bf703-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 101596,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-dry-aged-tomahawk-f76c7a0be110f194-800.webp",
+      "saving_percent_default": 95.59
+    },
+    {
+      "source": "assets/generated-fish.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2692566,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 15498,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 56198,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-fish-a538a102207dd0de-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 112398,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp",
+      "saving_percent_default": 97.91
+    },
+    {
+      "source": "assets/generated-fried-rice.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1199371,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 16020,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-fried-rice-7ab3b4a821cb8854-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 43676,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-fried-rice-9e68aad593ce9116-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 68982,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-fried-rice-7ab3b4a821cb8854-800.webp",
+      "saving_percent_default": 96.36
+    },
+    {
+      "source": "assets/generated-giant-prawn.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1206296,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 14116,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 38686,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-giant-prawn-6f95537b572d6696-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 63024,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp",
+      "saving_percent_default": 96.79
+    },
+    {
+      "source": "assets/generated-gyokai.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1308628,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17676,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-gyokai-8bed007ceab58777-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 50944,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-gyokai-416ddb94b48156fb-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 85712,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-gyokai-8bed007ceab58777-800.webp",
+      "saving_percent_default": 96.11
+    },
+    {
+      "source": "assets/generated-kairiku.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1301990,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18166,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-kairiku-7117b10d527bc2e6-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 50704,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-kairiku-05af86fe65aceb3c-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 88296,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-kairiku-7117b10d527bc2e6-800.webp",
+      "saving_percent_default": 96.11
+    },
+    {
+      "source": "assets/generated-king-prawn.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1473945,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 15494,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-king-prawn-42696371c324c18e-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 44054,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-king-prawn-202706650f2ed45e-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 70148,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-king-prawn-42696371c324c18e-800.webp",
+      "saving_percent_default": 97.01
+    },
+    {
+      "source": "assets/generated-kobe.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1254895,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 16016,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-kobe-bed618fcaf287191-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 45156,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-kobe-bb0b3f4e8a951e81-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 76650,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-kobe-bed618fcaf287191-800.webp",
+      "saving_percent_default": 96.4
+    },
+    {
+      "source": "assets/generated-lobster.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1269529,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17302,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-lobster-80afa4ead820d2be-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 47654,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-lobster-038fca1488974252-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 79388,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-lobster-80afa4ead820d2be-800.webp",
+      "saving_percent_default": 96.25
+    },
+    {
+      "source": "assets/generated-miyazaki-wagyu.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1242738,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 15692,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 47106,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-miyazaki-wagyu-041154ed1ebfdbc3-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 80036,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp",
+      "saving_percent_default": 96.21
+    },
+    {
+      "source": "assets/generated-mori-mori.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1138046,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 12956,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-mori-mori-e65d56f9383ded69-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 35826,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-mori-mori-ca92bae4db1ebdd7-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 56942,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-mori-mori-e65d56f9383ded69-800.webp",
+      "saving_percent_default": 96.85
+    },
+    {
+      "source": "assets/generated-niku-dake.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2735547,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 21624,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-niku-dake-6d990343f02416f9-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 75016,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-niku-dake-849d5af22b8be8a0-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 141078,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-niku-dake-6d990343f02416f9-800.webp",
+      "saving_percent_default": 97.26
+    },
+    {
+      "source": "assets/generated-oishi.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1299083,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17544,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-oishi-cd3f30f9fba02fe3-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 49874,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-oishi-4cb0f8657a9a2c14-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 85542,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-oishi-cd3f30f9fba02fe3-800.webp",
+      "saving_percent_default": 96.16
+    },
+    {
+      "source": "assets/generated-omoshiroi.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1306609,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17680,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-omoshiroi-a81abafd5f8c26c8-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 49370,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-omoshiroi-15e8ab30b90362ab-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 85168,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-omoshiroi-a81abafd5f8c26c8-800.webp",
+      "saving_percent_default": 96.22
+    },
+    {
+      "source": "assets/generated-potato-wedges.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1234090,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 14490,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-potato-wedges-26806b7b41c68afc-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 40960,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-potato-wedges-d210499edf2e98e1-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 66818,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-potato-wedges-26806b7b41c68afc-800.webp",
+      "saving_percent_default": 96.68
+    },
+    {
+      "source": "assets/generated-ribeye-batch2.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1301680,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17698,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 52510,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-ribeye-batch2-8dc92d2d47feff51-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 89706,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp",
+      "saving_percent_default": 95.97
+    },
+    {
+      "source": "assets/generated-ribeye-batch3.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1327036,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18108,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-ribeye-batch3-4cf9f3010b487fbe-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 53578,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-ribeye-batch3-eca8be2bf9474e2a-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 92624,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-ribeye-batch3-4cf9f3010b487fbe-800.webp",
+      "saving_percent_default": 95.96
+    },
+    {
+      "source": "assets/generated-salmon.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1196535,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 14286,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 40478,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-salmon-bb6b8d2c139bf53d-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 66156,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp",
+      "saving_percent_default": 96.62
+    },
+    {
+      "source": "assets/generated-scallops.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1231869,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 14888,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 42950,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-scallops-fc178ec54cbae2ad-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 72338,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp",
+      "saving_percent_default": 96.51
+    },
+    {
+      "source": "assets/generated-set-menu-includes.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2990931,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 22782,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-set-menu-includes-e92fc7e523fad0a2-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 80326,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-set-menu-includes-5f443e36e4dab530-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 157750,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-set-menu-includes-e92fc7e523fad0a2-800.webp",
+      "saving_percent_default": 97.31
+    },
+    {
+      "source": "assets/generated-set-menu-pow-v2.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 3320006,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 36570,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-set-menu-pow-v2-7a1b56eab20d39fe-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 122572,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-set-menu-pow-v2-9c8e149da538dd45-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 226096,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-set-menu-pow-v2-7a1b56eab20d39fe-800.webp",
+      "saving_percent_default": 96.31
+    },
+    {
+      "source": "assets/generated-steamed-rice.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 981531,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 8590,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-steamed-rice-74187a916690a412-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 24424,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-steamed-rice-f078e8e9e7cf223c-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 37498,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-steamed-rice-74187a916690a412-800.webp",
+      "saving_percent_default": 97.51
+    },
+    {
+      "source": "assets/generated-suku-suku.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1185442,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 14242,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-suku-suku-0a6054fdf2259de1-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 40838,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-suku-suku-5fd79bfe6ab9827c-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 68696,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-suku-suku-0a6054fdf2259de1-800.webp",
+      "saving_percent_default": 96.56
+    },
+    {
+      "source": "assets/generated-tofu.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2731380,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 19042,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 67094,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tofu-a7ea899d82cf3442-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 133662,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp",
+      "saving_percent_default": 97.54
+    },
+    {
+      "source": "assets/generated-tomahawk-wagyu.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1297517,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 17656,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 53302,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tomahawk-wagyu-e1eaffdb4f5db025-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 91456,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp",
+      "saving_percent_default": 95.89
+    },
+    {
+      "source": "assets/generated-tuna.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2638543,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 13984,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 51646,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-tuna-20bff4fc544991a2-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 108280,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp",
+      "saving_percent_default": 98.04
+    },
+    {
+      "source": "assets/generated-vegetables.png",
+      "width": 1254,
+      "height": 1254,
+      "original_bytes": 2653529,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 20138,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 66428,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetables-083f92c095b817ef-1200.webp",
+          "width": 1200,
+          "height": 1200,
+          "bytes": 127876,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp",
+      "saving_percent_default": 97.5
+    },
+    {
+      "source": "assets/generated-vegetarian-set-1.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1304617,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 18562,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetarian-set-1-e97912e925528d98-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 52834,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetarian-set-1-483449776aecbeae-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 89254,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-vegetarian-set-1-e97912e925528d98-800.webp",
+      "saving_percent_default": 95.95
+    },
+    {
+      "source": "assets/generated-vegetarian-set-2.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1324543,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 19098,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetarian-set-2-54ed548395afe44b-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 54710,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-vegetarian-set-2-fb3627bbdfdcad44-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 96142,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-vegetarian-set-2-54ed548395afe44b-800.webp",
+      "saving_percent_default": 95.87
+    },
+    {
+      "source": "assets/generated-wagyu-sirloin.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1273240,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 16758,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 50552,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-wagyu-sirloin-9aa9b113141dc3be-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 85970,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp",
+      "saving_percent_default": 96.03
+    },
+    {
+      "source": "assets/generated-wagyu-tenderloin.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1247399,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 15826,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 46636,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-wagyu-tenderloin-698fd0ed63f18b96-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 81422,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp",
+      "saving_percent_default": 96.26
+    },
+    {
+      "source": "assets/generated-zeitaku.png",
+      "width": 1024,
+      "height": 1024,
+      "original_bytes": 1331096,
+      "variants": [
+        {
+          "src": "assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 400,
+          "height": 400,
+          "bytes": 19056,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-zeitaku-c8b884fadad19ada-800.webp",
+          "width": 800,
+          "height": 800,
+          "bytes": 54638,
+          "quality": 80
+        },
+        {
+          "src": "assets/optimized/generated-zeitaku-7344eaca79b7ef6e-1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "bytes": 97200,
+          "quality": 80
+        }
+      ],
+      "default": "assets/optimized/generated-zeitaku-c8b884fadad19ada-800.webp",
+      "saving_percent_default": 95.9
+    }
+  ],
+  "hero": {
+    "source": "assets/33463e65333c.jpg",
+    "width": 1600,
+    "height": 1068,
+    "original_bytes": 408380,
+    "variants": [
+      {
+        "src": "assets/optimized/33463e65333c-26a450c6e6473084-960.webp",
+        "width": 960,
+        "height": 641,
+        "bytes": 88768,
+        "quality": 80
+      },
+      {
+        "src": "assets/optimized/33463e65333c-93cfc2f536bde00a-1600.webp",
+        "width": 1600,
+        "height": 1068,
+        "bytes": 198224,
+        "quality": 80
+      }
+    ],
+    "default": "assets/optimized/33463e65333c-93cfc2f536bde00a-1600.webp",
+    "saving_percent_default": 51.46
+  },
+  "excluded_masters": [
+    "/assets/33463e65333c.jpg",
+    "/assets/generated-asparagus.png",
+    "/assets/generated-black-angus-tenderloin.png",
+    "/assets/generated-calamari.png",
+    "/assets/generated-chicken.png",
+    "/assets/generated-dry-aged-t-bone.png",
+    "/assets/generated-dry-aged-tomahawk.png",
+    "/assets/generated-fish.png",
+    "/assets/generated-fried-rice.png",
+    "/assets/generated-giant-prawn.png",
+    "/assets/generated-gyokai.png",
+    "/assets/generated-kairiku.png",
+    "/assets/generated-king-prawn.png",
+    "/assets/generated-kobe.png",
+    "/assets/generated-lobster.png",
+    "/assets/generated-miyazaki-wagyu.png",
+    "/assets/generated-mori-mori.png",
+    "/assets/generated-niku-dake.png",
+    "/assets/generated-oishi.png",
+    "/assets/generated-omoshiroi.png",
+    "/assets/generated-potato-wedges.png",
+    "/assets/generated-ribeye-batch2.png",
+    "/assets/generated-ribeye-batch3.png",
+    "/assets/generated-salmon.png",
+    "/assets/generated-scallops.png",
+    "/assets/generated-set-menu-includes.png",
+    "/assets/generated-set-menu-pow-v2.png",
+    "/assets/generated-steamed-rice.png",
+    "/assets/generated-suku-suku.png",
+    "/assets/generated-tofu.png",
+    "/assets/generated-tomahawk-wagyu.png",
+    "/assets/generated-tuna.png",
+    "/assets/generated-vegetables.png",
+    "/assets/generated-vegetarian-set-1.png",
+    "/assets/generated-vegetarian-set-2.png",
+    "/assets/generated-wagyu-sirloin.png",
+    "/assets/generated-wagyu-tenderloin.png",
+    "/assets/generated-zeitaku.png"
+  ],
+  "menu_elements": 37,
+  "menu_original_bytes": 60120269,
+  "menu_largest_variant_bytes": 3470820,
+  "menu_default_bytes": 1961748
+}

@@ -1,0 +1,81 @@
+.flex-direction-nav a:before{font-family:Arial,sans-serif;content:"‹"}.flex-direction-nav a.flex-next:before{content:"›"}
+
+@media (max-width: 768px) {
+  header { height: 147px; transition: none; }
+  #nav-menu.navbar-default {
+    --nav-duration: 240ms;
+    --nav-ease: cubic-bezier(0.22, 1, 0.36, 1);
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    height: 147px;
+    transition: height var(--nav-duration) var(--nav-ease);
+  }
+  #nav-menu.navbar-default.on { height: 72px; }
+  #nav-menu > .container { position: relative; height: 100%; }
+  #nav-menu.navbar-default #logo, #nav-menu.on #logo {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: auto;
+    margin: 0 0 0 -55px;
+    width: 110px;
+    height: 147px;
+    transform-origin: top center;
+    transform: translateY(0) scale(1);
+    clip-path: inset(0);
+    transition: transform var(--nav-duration) var(--nav-ease),
+                clip-path var(--nav-duration) var(--nav-ease);
+  }
+  #nav-menu.on #logo {
+    transform: translateY(4px) scale(0.590909);
+    clip-path: inset(0 0 37px 0);
+  }
+  #mobile-menu-trigger {
+    top: 8px;
+    margin: 0;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+  #nav-menu #mobile-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin: 0;
+    max-height: calc(100dvh - 147px);
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+  }
+  #nav-menu.on #mobile-menu { max-height: calc(100dvh - 72px); }
+  html { scroll-padding-top: 84px; }
+  .parallax, .bg-fixed, #contact-parallax, .flexslider .slides > li {
+    background-attachment: scroll !important;
+    background-position: center !important;
+  }
+  body { background-attachment: scroll; }
+}
+
+@media (max-width: 1024px) {
+  footer {
+    padding-bottom: calc(160px + env(safe-area-inset-bottom, 0px));
+  }
+  .wa__btn_popup {
+    bottom: calc(80px + env(safe-area-inset-bottom, 0px));
+  }
+  .wa__popup_chat_box {
+    bottom: calc(152px + env(safe-area-inset-bottom, 0px));
+    max-width: calc(100vw - 50px);
+    max-height: calc(100dvh - 168px - env(safe-area-inset-bottom, 0px));
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 768px) and (prefers-reduced-motion: reduce) {
+  #nav-menu.navbar-default, #nav-menu.navbar-default #logo { transition: none; }
+}

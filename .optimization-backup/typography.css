@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/manrope-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(assets/manrope-500.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(assets/manrope-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(assets/manrope-700.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Marcellus';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(assets/marcellus-400.ttf) format('truetype');
+}
+
+body, button, input, select, textarea,
+.navbar-nav > li > a, .sub-menu a,
+.chef-sub-title li, .featured-book-content .time,
+.contact-info p, .ui-widget, .ui-widget-content {
+  font-family: 'Manrope', sans-serif;
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6, .chef-title li {
+  font-family: 'Marcellus', serif;
+  font-weight: 400;
+}
+.eyebrow, .sub-title, .subtitle, .tagline-content > p {
+  font-family: 'Manrope', sans-serif;
+}
+.featured-book-content > h4, .chef-title li.price {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Navigation typography */
+#primary-menu .navbar-nav > li > a,
+#primary-menu .sub-menu a {
+  font-family: 'Marcellus', serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Equal menu columns reserve the center for the logo. */
+@media (min-width: 769px) {
+  #nav-menu > .container {
+    width: 100%;
+    max-width: 1480px;
+    padding-left: clamp(20px, 4vw, 64px);
+    padding-right: clamp(20px, 4vw, 64px);
+  }
+  #primary-menu.navbar-collapse {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 150px minmax(0, 1fr);
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  #primary-menu::before, #primary-menu::after {
+    display: none;
+  }
+  #primary-menu #leftmenu, #primary-menu #rightmenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: clamp(8px, 1.2vw, 20px);
+    float: none;
+    width: 100%;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+  }
+  #primary-menu #leftmenu { grid-column: 1; }
+  #primary-menu #rightmenu { grid-column: 3; }
+  #primary-menu .navbar-nav > li {
+    display: block;
+    float: none;
+    flex: 0 0 auto;
+  }
+  #primary-menu .navbar-nav > li > a {
+    font-size: clamp(10px, 1.15vw, 18px);
+    letter-spacing: 0.045em;
+    white-space: nowrap;
+    padding: 48px 0;
+  }
+  .on #primary-menu .navbar-nav > li > a { padding: 25px 0; }
+  #nav-menu #logo {
+    left: 50%;
+    right: auto;
+    margin: 0;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 768px) {
+  #nav-menu #logo {
+    left: auto;
+    right: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* Supporting line beneath the Home and Restaurant hero titles. */
+.slider .tagline-content p.hero-description,
+.parallax .parallax-content p.hero-description {
+  font-family: 'Manrope', sans-serif;
+  font-size: clamp(14px, 1.35vw, 18px);
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: #fff;
+  max-width: 640px;
+  margin: 0 auto 24px;
+  padding: 0 16px;
+}
+
+.menu-photo-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 48px 28px; padding: 0 15px 50px; }
+.menu-photo-card { min-width: 0; }
+.menu-photo-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; margin-bottom: 20px; }
+.menu-photo-card .chef-title ul { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 0; margin: 0 0 10px; }
+.menu-photo-card .chef-title li { float: none; margin: 0; font-size: 20px; line-height: 1.35; }
+.menu-photo-card .chef-title li:first-child { flex: 1; }
+.menu-photo-card .chef-title li.price { flex: none; font-family: 'Manrope', sans-serif; font-size: 15px; }
+.menu-photo-card .chef-title li.weight { flex: none; font-family: 'Manrope', sans-serif; font-size: 12px; }
+.menu-photo-card .chef-title li.weight:empty { display: none; }
+.menu-photo-card .chef-title p { margin: 0; line-height: 1.65; }
+@media (max-width: 991px) { .menu-photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .menu-photo-grid { grid-template-columns: 1fr; gap: 36px; } }
+
+.menu-photo-card img { aspect-ratio: 1 / 1; border-radius: 4px; }
+.menu-photo-card .chef-title h3 { font-size: 20px; line-height: 1.35; margin-bottom: 10px; }
+.menu-photo-card .chef-title h4 { font-family: 'Manrope', sans-serif; font-size: 14px; line-height: 1.5; }
+
+.menu-photo-card .chef-title .menu-price {
+  margin: 16px 0 0;
+  color: #0e4870;
+  font-family: 'Marcellus', serif;
+  font-size: 24px;
+  line-height: 1.2;
+}

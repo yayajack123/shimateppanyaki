@@ -1,0 +1,3582 @@
+[
+  {
+    "width": 390,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 164,
+        "cls": 0.0009741046712802769
+      },
+      "requests": 70,
+      "bytes": 2172894,
+      "loadedMenu": 6,
+      "cards": [
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 101,
+      "bytes": 2722804,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 360,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 3024,
+        "cls": 0.0009741046712802769
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "dpr": 2,
+    "initial": {
+      "metrics": {
+        "lcp": 180,
+        "cls": 0.0009741046712802769
+      },
+      "requests": 70,
+      "bytes": 2427222,
+      "loadedMenu": 6,
+      "cards": [
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp"
+        },
+        {
+          "width": 360,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp"
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        },
+        {
+          "width": 360,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 1972848,
+      "requests": 101,
+      "bytes": 4039266,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-42696371c324c18e-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-80afa4ead820d2be-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-f76c7a0be110f194-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-50258a44d9e42853-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-4cf9f3010b487fbe-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-7ab3b4a821cb8854-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-74187a916690a412-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-26806b7b41c68afc-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-e92fc7e523fad0a2-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-a81abafd5f8c26c8-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-8bed007ceab58777-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-cd3f30f9fba02fe3-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-bed618fcaf287191-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-7117b10d527bc2e6-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-c8b884fadad19ada-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-0a6054fdf2259de1-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-e65d56f9383ded69-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-e97912e925528d98-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-54ed548395afe44b-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-7a1b56eab20d39fe-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-6d990343f02416f9-800.webp",
+          "width": 360,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 3432,
+        "cls": 0.0009741046712802769
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 600,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 92,
+        "cls": 0.0009261263696655134
+      },
+      "requests": 68,
+      "bytes": 2318778,
+      "loadedMenu": 4,
+      "cards": [
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp"
+        },
+        {
+          "width": 570,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp"
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        },
+        {
+          "width": 570,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 1915304,
+      "requests": 101,
+      "bytes": 3981722,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-42696371c324c18e-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-80afa4ead820d2be-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-f76c7a0be110f194-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-50258a44d9e42853-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-4cf9f3010b487fbe-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-7ab3b4a821cb8854-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-74187a916690a412-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-26806b7b41c68afc-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-a81abafd5f8c26c8-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-8bed007ceab58777-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-cd3f30f9fba02fe3-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-bed618fcaf287191-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-7117b10d527bc2e6-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-c8b884fadad19ada-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-0a6054fdf2259de1-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-e65d56f9383ded69-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-e97912e925528d98-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-54ed548395afe44b-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-7a1b56eab20d39fe-800.webp",
+          "width": 570,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-6d990343f02416f9-800.webp",
+          "width": 570,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 2528,
+        "cls": 0.0009261263696655134
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 601,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 120,
+        "cls": 0.0009239232910547013
+      },
+      "requests": 76,
+      "bytes": 2267390,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        },
+        {
+          "width": 271.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 101,
+      "bytes": 2722804,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 271.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 271.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 120,
+        "cls": 0.0009239232910547013
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 768,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 96,
+        "cls": 0.0011796785453611592
+      },
+      "requests": 76,
+      "bytes": 2267390,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 101,
+      "bytes": 2722804,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 283.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 96,
+        "cls": 0.0011796785453611592
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 991,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 112,
+        "cls": 0.0012156157435079184
+      },
+      "requests": 76,
+      "bytes": 2376846,
+      "loadedMenu": 12,
+      "cards": [
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        },
+        {
+          "width": 283.5,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 101,
+      "bytes": 2832260,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 283.5,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 283.5,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 112,
+        "cls": 0.0012156157435079184
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 992,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 112,
+        "cls": 0.0013710801397242933
+      },
+      "requests": 82,
+      "bytes": 2479836,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp"
+        },
+        {
+          "width": 240.78125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp"
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        },
+        {
+          "width": 240.765625,
+          "source": ""
+        },
+        {
+          "width": 240.78125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 101,
+      "bytes": 2832260,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 240.765625,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 240.78125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 112,
+        "cls": 0.0013710801397242933
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1200,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0012251918658088235
+      },
+      "requests": 81,
+      "bytes": 2383236,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 100,
+      "bytes": 2735660,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0012251918658088235
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "dpr": 1,
+    "initial": {
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0009822726424916033
+      },
+      "requests": 81,
+      "bytes": 2383236,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 656386,
+      "requests": 100,
+      "bytes": 2735660,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-5741d1417452bc6e-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9dd16722f3ccfead-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-473264a5e135ab08-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-5e8b54b46dcd8807-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-36f60a377cf4159e-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-59aa06b30d9590d2-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-07d0362116141c1d-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-8f44b2e04f993988-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-faec25368d8ed6c6-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-f9834bca92845d27-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-d31bf8ee922adfc9-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-f9af16a80b074e65-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-23834bddd2635eca-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-dc4c6994d872167b-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-1c9d2a529685b4bc-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-45094454de5795f2-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-21dae0132296dc84-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-bae8d9ae0a1ba46d-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-6fe39fa8ec2863b6-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-2adbdd0e624b2187-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-55a286e2649862e5-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-dfc15fa0df6ed682-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-28aa4e798b952ae3-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-279658cdca3b0742-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-7ab116452c449326-400.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-c426f3c5ad0d96f4-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-6c1d98166844acc3-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-e799a0860622d686-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-2981fbcfbd8c8b6d-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-e97bb36889f54ffa-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-d0780633c2584840-400.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-dc20ae65eb181508-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-00d49cf466783458-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-15e620b2d5a36180-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-9d05b3c83b122694-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-d8ad627c93625bfd-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-1d9a548c841b4491-400.webp",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 116,
+        "cls": 0.0009822726424916033
+      },
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "dpr": 2,
+    "initial": {
+      "metrics": {
+        "lcp": 136,
+        "cls": 0.0009822726424916033
+      },
+      "requests": 81,
+      "bytes": 3006488,
+      "loadedMenu": 18,
+      "cards": [
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-42696371c324c18e-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-80afa4ead820d2be-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp"
+        },
+        {
+          "width": 296.34375,
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp"
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.34375,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        },
+        {
+          "width": 296.328125,
+          "source": ""
+        }
+      ],
+      "includes": 360
+    },
+    "full": {
+      "menuBytes": 1972848,
+      "requests": 100,
+      "bytes": 4052122,
+      "images": [
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetables-a0b7192ed48b7fc6-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-asparagus-9419bd86bddf4eb0-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tofu-a8832cb7a61fa012-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-calamari-cb841cc960868bad-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tuna-dca24498e3ef00f5-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fish-ecc73307a8dc8ddb-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-salmon-6498f97d9fc26a75-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-scallops-7c61785b6f91fa7d-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-king-prawn-42696371c324c18e-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-giant-prawn-75ef8d1949eae00e-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-lobster-80afa4ead820d2be-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-chicken-bd1a87c429fa8a75-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch2-cbb2187e2c891088-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-tenderloin-195732258577817f-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-wagyu-sirloin-e44f31adb3c33cb8-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-black-angus-tenderloin-eeee485196058fb7-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-miyazaki-wagyu-fb50ed8cebdd416e-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-tomahawk-wagyu-5834149199622f44-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-tomahawk-f76c7a0be110f194-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-dry-aged-t-bone-50258a44d9e42853-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-ribeye-batch3-4cf9f3010b487fbe-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-fried-rice-7ab3b4a821cb8854-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-steamed-rice-74187a916690a412-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-potato-wedges-26806b7b41c68afc-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-includes-e92fc7e523fad0a2-800.webp",
+          "width": 360,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-omoshiroi-a81abafd5f8c26c8-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-gyokai-8bed007ceab58777-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-oishi-cd3f30f9fba02fe3-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kobe-bed618fcaf287191-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-kairiku-7117b10d527bc2e6-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-zeitaku-c8b884fadad19ada-800.webp",
+          "width": 296.34375,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-suku-suku-0a6054fdf2259de1-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-mori-mori-e65d56f9383ded69-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-1-e97912e925528d98-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-vegetarian-set-2-54ed548395afe44b-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-set-menu-pow-v2-7a1b56eab20d39fe-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        },
+        {
+          "source": "http://127.0.0.1:8765/assets/optimized/generated-niku-dake-6d990343f02416f9-800.webp",
+          "width": 296.328125,
+          "loaded": true
+        }
+      ],
+      "metrics": {
+        "lcp": 136,
+        "cls": 0.0009822726424916033
+      },
+      "overflow": false
+    },
+    "errors": []
+  }
+]
